@@ -1,0 +1,15 @@
+C:\Users\arthu\Downloads\Ioasys\ApiIoasys\ApiIoasys\obj\Debug\netcoreapp2.1\ApiIoasys.csproj.CoreCompileInputs.cache
+C:\Users\arthu\Downloads\Ioasys\ApiIoasys\ApiIoasys\obj\Debug\netcoreapp2.1\ApiIoasys.AssemblyInfoInputs.cache
+C:\Users\arthu\Downloads\Ioasys\ApiIoasys\ApiIoasys\obj\Debug\netcoreapp2.1\ApiIoasys.AssemblyInfo.cs
+C:\Users\arthu\Downloads\Ioasys\ApiIoasys\ApiIoasys\bin\Debug\netcoreapp2.1\ApiIoasys.deps.json
+C:\Users\arthu\Downloads\Ioasys\ApiIoasys\ApiIoasys\bin\Debug\netcoreapp2.1\ApiIoasys.runtimeconfig.json
+C:\Users\arthu\Downloads\Ioasys\ApiIoasys\ApiIoasys\bin\Debug\netcoreapp2.1\ApiIoasys.runtimeconfig.dev.json
+C:\Users\arthu\Downloads\Ioasys\ApiIoasys\ApiIoasys\bin\Debug\netcoreapp2.1\ApiIoasys.dll
+C:\Users\arthu\Downloads\Ioasys\ApiIoasys\ApiIoasys\bin\Debug\netcoreapp2.1\ApiIoasys.pdb
+C:\Users\arthu\Downloads\Ioasys\ApiIoasys\ApiIoasys\obj\Debug\netcoreapp2.1\ApiIoasys.csprojAssemblyReference.cache
+C:\Users\arthu\Downloads\Ioasys\ApiIoasys\ApiIoasys\obj\Debug\netcoreapp2.1\ApiIoasys.RazorAssemblyInfo.cache
+C:\Users\arthu\Downloads\Ioasys\ApiIoasys\ApiIoasys\obj\Debug\netcoreapp2.1\ApiIoasys.RazorAssemblyInfo.cs
+C:\Users\arthu\Downloads\Ioasys\ApiIoasys\ApiIoasys\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\arthu\Downloads\Ioasys\ApiIoasys\ApiIoasys\obj\Debug\netcoreapp2.1\ApiIoasys.RazorTargetAssemblyInfo.cache
+C:\Users\arthu\Downloads\Ioasys\ApiIoasys\ApiIoasys\obj\Debug\netcoreapp2.1\ApiIoasys.dll
+C:\Users\arthu\Downloads\Ioasys\ApiIoasys\ApiIoasys\obj\Debug\netcoreapp2.1\ApiIoasys.pdb
